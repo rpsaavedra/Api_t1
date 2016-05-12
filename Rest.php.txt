@@ -12,6 +12,9 @@
      echo $data;  
      exit;  
    }  
+   bfbfbf
+   fbb
+   b
    private function setCabecera() {  
      header("HTTP/1.1 " . $this->_codEstado . " " . $this->getCodEstado());  
      header("Content-Type:" . $this->tipo . ';charset=utf-8');  
@@ -29,6 +32,10 @@
          //Cuando esta extensión está activada, PHP añade automáticamente caracteres de escape (\) delante de las comillas que se escriban en un campo de formulario.   
          $data = trim(stripslashes($data));  
        }  
+       fvvfdvcjcp
+        vv 
+        v vs
+        v
        //eliminamos etiquetas html y php  
        $data = strip_tags($data);  
        //Conviertimos todos los caracteres aplicables a entidades HTML  
