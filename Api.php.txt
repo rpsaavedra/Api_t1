@@ -20,6 +20,18 @@
        echo 'Falló la conexión: ' . $e->getMessage();  
      }  
    }  
+     fvfvvv  f vf
+     
+     
+     vf v 
+     v 
+       fv 
+       f
+       f
+       fvvfvf
+       v 
+       
+       
    private function devolverError($id) {  
      $errores = array(  
        array('estado' => "error", "msg" => "petición no encontrada"),  
